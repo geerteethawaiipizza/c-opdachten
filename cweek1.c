@@ -1,7 +1,8 @@
 #include <stdio.h>
+#include "jump.c"
 void print_function( char letter );
 int ctr;
-int main( void )
+int smain( void )
 {
 	char star = '*';
 	char dash = '-';
