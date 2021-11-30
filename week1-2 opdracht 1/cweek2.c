@@ -8,7 +8,7 @@ int main()
 	char dash = '-';
     printf("Kies optie(negatief getal,positief getal, of 2):");
     scanf("%d", &a);
-	if (a = 2)
+	if (a == 2)
 	{
 		for (b= 0 ; b < 10; b++ )
 		{
