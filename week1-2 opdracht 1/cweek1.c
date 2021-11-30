@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "jump.c"
 void print_function( char letter );
 int ctr;
 int count;
